@@ -1,2 +1,2 @@
 # Python_studying
-Python_studying
+Здесь я буду публиковать свои решения задач на курсе 'Программирование на Python' на Stepik
