@@ -21,3 +21,9 @@ print(len(genome))
 
 # Ответ на задачку
 print((how_much/len(genome))*100)
+s = 'abcdefghijk'
+
+print(s[-3:])
+print(s[:-6])
+print(s[-1:-10:-2])
+print(s[-1:-10:-2])
